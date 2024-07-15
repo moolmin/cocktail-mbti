@@ -30,7 +30,6 @@ class _LoadingScreenState extends State<LoadingScreen> {
   @override
   void initState() {
     super.initState();
-    // 여기에서 로딩 작업을 수행하거나 다음 화면으로 이동하기 전에 작업을 수행할 수 있습니다.
     _navigateToHomeScreen();
   }
 
